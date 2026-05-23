@@ -19,8 +19,8 @@ Passionate about building reliable real-time systems from bare metal up.
 |---|---|
 | **Languages** | Advanced C, C++, Data Structures |
 | **Embedded** | PIC18F4580, GPIO, ADC, Timers, EEPROM, CLCD |
-| **Protocols** | CAN, UART, I2C, SPI, TCP/UDP, TFTP |
-| **Linux** | System Calls, IPC, Signals, Threads, Sockets |
+| **Protocols** | CAN, UART, I2C, SPI |
+| **Linux** | System Calls, IPC, Signals, Threads|
 | **Tools** | GCC, GDB, Vim, Makefiles, MPLAB X, XC8 |
 
 ---
