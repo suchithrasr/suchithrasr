@@ -29,14 +29,14 @@ Passionate about building reliable real-time systems from bare metal up.
 
 | Project | Category | Description |
 |---|---|---|
-| [Mini Shell](https://github.com/suchithrasr/mini-shell) | Linux | Unix-like shell with process management, pipes and signals |
-| Lexical Analyser | C Programming | Tokenizer for C source code with color-coded output |
-| TFTP Client-Server | Network | File transfer protocol over UDP from scratch |
 | CAN Dashboard | Embedded | Distributed automotive dashboard using 3 PIC18F4580 ECUs |
 | Car Black Box | Embedded | Vehicle event logger with RTC, EEPROM and UART download |
-| Inverted Search | Data Structures | Keyword-based document retrieval using hash tables |
-| APC Calculator | Data Structures | Arbitrary precision arithmetic using linked lists |
+| [Mini Shell](https://github.com/suchithrasr/mini-shell) | Linux | Unix-like shell with process management, pipes and signals |
+| [Lexical Analyser](https://github.com/suchithrasr/lexical-analyzer)| C Programming | Tokenizer for C source code with color-coded output |
+| [APC Calculator](https://github.com/suchithrasr/APC-Arbitrary-Precision-Calculator) | Data Structures | Arbitrary precision arithmetic using linked lists |
+| [Inverted Search](https://github.com/suchithrasr/Inverted-Search-Engine) | Data Structures | Keyword-based document retrieval using hash tables |
 | Image Steganography | C Programming | LSB-based secret message hiding in BMP images |
+| TFTP Client-Server | Network | File transfer protocol over UDP from scratch |
 
 ---
 
